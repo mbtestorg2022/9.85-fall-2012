@@ -85,21 +85,126 @@ All papers must be submitted both in hard copy and electronically. Please keep t
 {{< anchor "Grading" >}}{{< /anchor >}}Grading
 ----------------------------------------------
 
-| ASSIGNMENTS | POINTS |
-| --- | --- |
-| Daily mini-lectures (1 point each—credit/no credit) | 20 |
-| Group practicum (credit/no credit) | 10 |
-| Public information brochure (10% deducted if no draft) | 20 |
-| Critical response paper | 20 |
-| Poster session | 20 |
-| Proposal and meeting (credit/no credit) | 10 |
-| Final paper (10% deducted if no draft) | 100 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily mini-lectures (1 point each—credit/no credit)
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group practicum (credit/no credit)
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Public information brochure (10% deducted if no draft)
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Critical response paper
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Poster session
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proposal and meeting (credit/no credit)
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper (10% deducted if no draft)
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Letter Grade Assignments
 
-| 98%–100% A+ | 88%–89% B+ | 78%–79% C+ |
-| 93%–97% A | 83%–87% B | 73%–77% C |
-| 90%–92% A- | 80%–82% B- | 70%–72% C- etc. 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+98%–100% A+
+{{< tdclose >}}
+{{< tdopen >}}
+88%–89% B+
+{{< tdclose >}}
+{{< tdopen >}}
+78%–79% C+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+93%–97% A
+{{< tdclose >}}
+{{< tdopen >}}
+83%–87% B
+{{< tdclose >}}
+{{< tdopen >}}
+73%–77% C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+90%–92% A-
+{{< tdclose >}}
+{{< tdopen >}}
+80%–82% B-
+{{< tdclose >}}
+{{< tdopen >}}
+70%–72% C- etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For group assignments, every member of the group receives the same grade, unless there's a clear discrepancy in the distribution of effort. Please see the peer evaluation page of this syllabus for how to handle the exceptional case of differential grading on group assignments. For all other assignments, you will be graded on the quality of your own work—there is no curve or pre-set grade distribution for this class.
 
@@ -126,33 +231,341 @@ _I do not use email as part of my teaching_. A quality undergraduate education s
 
 This calendar outlines the proposed schedule. During the teaching of the course, the topics covered in each session shifted for some sessions. As a result, the topics covered in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) and the sessions they correlate with may differ from the table below.
 
-| SES # | TOPICS | NOTES |
-| --- | --- | --- |
-| 1 | Commonsense and cognitive science | &nbsp; |
-| 2\* | Piaget | Group practicum, brochure project, poster, and critical response papers assigned |
-| 3\* | Central debates, post-Piaget | Methods assignment due the day after session #3 by email |
-| 4 | Methods 1 | &nbsp; |
-| 5 | Methods 2 | &nbsp; |
-| 6\* | Perception | &nbsp; |
-| 7\* | Object knowledge | Critical response due in class |
-| 8\* | Number | &nbsp; |
-| 9\* | Statistical learning | Two page proposal description due in class |
-| 10 | Topic seminars/CIM workshops: social cognition and brain disorders | &nbsp; |
-| 11 | Topic seminars/CIM workshops: empathy and morality | Deadline for critical response revisions (optional) |
-| 12 | Topic seminars/CIM workshops: music cognition, perception, and attention | &nbsp; |
-| 13 | Topic seminars/CIM workshops: education and learning | Draft of brochures due in class |
-| 14 | Topic seminars/CIM workshops: language, imagination, pretend play, and religion | &nbsp; |
-| 15 | Poster session groups A/B | &nbsp; |
-| 16\* | Computational models of cognitive development/spatial navigation | &nbsp; |
-| 17\* | Concepts | &nbsp; |
-| 18\* | Causal reasoning |  {{< br >}}{{< br >}} Draft of literature review due in class {{< br >}}{{< br >}} Brochure drafts returned {{< br >}}{{< br >}}  |
-| 19\* | Agents and goals | &nbsp; |
-| 20\* | Theory of mind | &nbsp; |
-| 21\* | Autism | Final brochures due in class |
-| 22\* | Word learning | Literature review drafts returned |
-| 23\* | Language | &nbsp; |
-| 24\* | Moral reasoning | &nbsp; |
-| 25\* | Imagination and pretend play | Final paper due in class |
-| 26 | Poster session groups C/D | Last day of class 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Commonsense and cognitive science
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\*
+{{< tdclose >}}
+{{< tdopen >}}
+Piaget
+{{< tdclose >}}
+{{< tdopen >}}
+Group practicum, brochure project, poster, and critical response papers assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\*
+{{< tdclose >}}
+{{< tdopen >}}
+Central debates, post-Piaget
+{{< tdclose >}}
+{{< tdopen >}}
+Methods assignment due the day after session #3 by email
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Methods 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Methods 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\*
+{{< tdclose >}}
+{{< tdopen >}}
+Perception
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7\*
+{{< tdclose >}}
+{{< tdopen >}}
+Object knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+Critical response due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8\*
+{{< tdclose >}}
+{{< tdopen >}}
+Number
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9\*
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical learning
+{{< tdclose >}}
+{{< tdopen >}}
+Two page proposal description due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Topic seminars/CIM workshops: social cognition and brain disorders
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Topic seminars/CIM workshops: empathy and morality
+{{< tdclose >}}
+{{< tdopen >}}
+Deadline for critical response revisions (optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Topic seminars/CIM workshops: music cognition, perception, and attention
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Topic seminars/CIM workshops: education and learning
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of brochures due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Topic seminars/CIM workshops: language, imagination, pretend play, and religion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Poster session groups A/B
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16\*
+{{< tdclose >}}
+{{< tdopen >}}
+Computational models of cognitive development/spatial navigation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17\*
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18\*
+{{< tdclose >}}
+{{< tdopen >}}
+Causal reasoning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Draft of literature review due in class
+
+Brochure drafts returned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19\*
+{{< tdclose >}}
+{{< tdopen >}}
+Agents and goals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20\*
+{{< tdclose >}}
+{{< tdopen >}}
+Theory of mind
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21\*
+{{< tdclose >}}
+{{< tdopen >}}
+Autism
+{{< tdclose >}}
+{{< tdopen >}}
+Final brochures due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22\*
+{{< tdclose >}}
+{{< tdopen >}}
+Word learning
+{{< tdclose >}}
+{{< tdopen >}}
+Literature review drafts returned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23\*
+{{< tdclose >}}
+{{< tdopen >}}
+Language
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24\*
+{{< tdclose >}}
+{{< tdopen >}}
+Moral reasoning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25\*
+{{< tdclose >}}
+{{< tdopen >}}
+Imagination and pretend play
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Poster session groups C/D
+{{< tdclose >}}
+{{< tdopen >}}
+Last day of class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*Daily mini-lecture session
