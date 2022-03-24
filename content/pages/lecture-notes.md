@@ -166,7 +166,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Moral reasoning (PDF - 1.7MB)]({{< baseurl >}}/resources/mit9_85f12_lec16)
+[Moral reasoning (PDF - 1.7MB)]({{< baseurl >}}/resources/mit9_85f12_lec16)
 {{< tdclose >}}
 
 {{< trclose >}}

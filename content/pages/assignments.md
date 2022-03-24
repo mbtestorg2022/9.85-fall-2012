@@ -37,7 +37,7 @@ Public information brochure
 
 [Brochure description (PDF)]({{< baseurl >}}/resources/mit9_85f12_brochure)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Blank brochure template (PDF)]({{< baseurl >}}/resources/mit9_85f12_brochureblank)
+[Blank brochure template (PDF)]({{< baseurl >}}/resources/mit9_85f12_brochureblank)
 
 
 {{< tdclose >}}
