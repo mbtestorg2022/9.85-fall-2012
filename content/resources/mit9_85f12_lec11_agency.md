@@ -4,6 +4,7 @@ description: This resource contains information regarding the perception of agen
   and goal-directed action in infancy; agency and attachment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-85-infant-and-early-childhood-cognition-fall-2012/bc124009e83abf2a6abf936fed658562_MIT9_85F12_lec11_agency.pdf
 file_type: application/pdf
+parent_uid: f34039e4-bcf6-3fce-dc58-43559fc7feab
 resourcetype: Document
 title: '9.85 Lecture 11: The perception of agency and goal-directed action in infancy;
   agency and attachment'
